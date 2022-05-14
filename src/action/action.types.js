@@ -1,0 +1,5 @@
+export const ADD_PERSONAL = 'ADD_PERSONAL';
+export const ADD_QUALIFICATION = 'ADD_QUALIFICATION'
+export const ADD_SKILL = 'ADD_SKILL'
+export const ADD_PROJECT = 'ADD_PROJECT'
+export const ADD_SOCIALMEDIA = 'ADD_SOCIALMEDIA'
